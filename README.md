@@ -2,6 +2,8 @@
 
 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World,Xiaohu Lu, JianYao, Haoang Li, Yahui Liu and Xiaofeng Zhang, WACV2017.
 
+http://xiaohulugo.github.io/papers/Vanishing_Point_Detection_WACV2017.pdf
+
 Prerequisites:
 ---
 OpenCV > 2.4.x
