@@ -11,6 +11,10 @@ Usage:
 1. build the project with Cmake
 2. set the internal parameters of the input image (it's ok to use approximate values, for example: pp(cols/2,rows/2), f=max(cols,rows), but the result will be a little worse)
 
+Performance:
+---
+40ms on a computer with Intel Core i5-3550p CPU without any optimization and parallel computation in the Release mode.
+
 Please cite this paper if you use this data or code:
 
     @InProceedings{Lu_2017_WACV,
