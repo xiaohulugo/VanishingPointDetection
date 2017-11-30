@@ -211,7 +211,7 @@ void VPDetection::getSphereGrids( std::vector<std::vector<double> > &sphereGrid 
 				continue;
 			}
 
-			sphereGrid[LA][LO] += sqrt( lineInfos[i].length * lineInfos[j].length ) * ( sin( 2.0 * angleDev ) + 0.05 );
+			sphereGrid[LA][LO] += sqrt( lineInfos[i].length * lineInfos[j].length ) * ( sin( 2.0 * angleDev ) + 0.2 ); // 0.2 is much robuster
 		}
 	}
 
