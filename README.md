@@ -17,6 +17,8 @@ Performance:
 ---
 40ms on a computer with Intel Core i5-3550p CPU without any optimization and parallel computation in the Release mode.
 
+![image](https://github.com/xiaohulugo/images/blob/master/vp_result.bmp)
+
 Please cite this paper if you use this data or code:
 
     @InProceedings{Lu_2017_WACV,
