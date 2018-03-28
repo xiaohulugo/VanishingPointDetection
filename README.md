@@ -11,7 +11,7 @@ OpenCV > 2.4.x
 Usage:
 ---
 1. build the project with Cmake
-2. set the internal parameters of the input image (it's ok to use approximate values, for example: pp(cols/2,rows/2), f=max(cols,rows), but the result will be a little worse)
+2. set the internal parameters of the input image (it's ok to use approximate values, for example: pp(cols/2,rows/2), f=1.2*max(cols,rows), but the result will be a little worse)
 
 Performance:
 ---
